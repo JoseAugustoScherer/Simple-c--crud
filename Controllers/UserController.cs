@@ -64,12 +64,12 @@ namespace firstAPI.Controllers
             var user = await _context.FirstAPI.FindAsync(id);
             if (user == null)
             {
-                return NotFound();
+                return NotFound("User not found");
             }
 
             _context.FirstAPI.Remove(user);
             await _context.SaveChangesAsync();
-            return NoContent();
+            return Ok("User removed");
         }
     }
 }
