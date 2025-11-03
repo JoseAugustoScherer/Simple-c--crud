@@ -1,0 +1,10 @@
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 1, 'José Augusto Scherer', 'jose@gmail.com', 'jose12345', 25, '(51)98888-7777' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 2, 'Maria Fernanda Silva', 'maria.fernanda@gmail.com', 'maria2024', 28, '(11)97777-6666' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 3, 'Lucas Pereira', 'lucas.pereira@hotmail.com', 'lucas123', 31, '(21)96543-2288' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 4, 'Ana Beatriz Oliveira', 'ana.oliveira@yahoo.com', 'anaBia2025', 22, '(31)98899-3322' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 5, 'Carlos Eduardo Santos', 'carlos.santos@gmail.com', 'cadu@pass', 35, '(41)99771-4411' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 6, 'Juliana Alves', 'juliana.alves@gmail.com', 'juAlves99', 27, '(81)98654-1122' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 7, 'Felipe Costa', 'felipe.costa@hotmail.com', 'feliP321', 30, '(61)98555-7788' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 8, 'Patrícia Lima', 'patricia.lima@gmail.com', 'patyL@23', 29, '(71)98444-6655' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 9, 'Bruno Henrique', 'bruno.henrique@gmail.com', 'bruno@dev', 33, '(91)98765-9911' );
+INSERT INTO firstapi ( Id, Name, Email, Password, Age, Phone ) VALUES ( 10, 'Camila Rocha', 'camila.rocha@gmail.com', 'cami1234', 26, '(51)99988-2233' );
